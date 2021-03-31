@@ -1,0 +1,47 @@
+.ma {
+    background-color: chartreuse;
+}
+body {
+    background-color: yellow;
+}
+#mahaop {
+    font-size: 30px;
+}
+#opman {
+    font-size: 20px;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 999999;
+}
+#camp {
+    border: 10px solid;
+    padding-left: 0;
+    padding-right: 0;
+    float: 0;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#caamp {
+    border: 10px solid;
+    padding-left: 0;
+    padding-right: 0;
+    float: 0;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 30px;
+}
+#cmp {
+    border: 10px solid;
+    padding-left: 0;
+    padding-right: 0;
+    float: 0;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#ache {
+    font-family: cursive;
+}
